@@ -1,0 +1,199 @@
+[
+    {
+        "id": 1,
+        "img": "/images/f-decor.png",
+        "title": "Syltherine",
+        "category": "Stylish cafe chair",
+        "price": 299.99,
+        "discount": true,
+        "discountAmount": 50.00,
+        "discountPercent": 17,
+        "new": false
+    },
+    {
+        "id": 2,
+        "img": "/images/f-chair.png",
+        "title": "Leviosa",
+        "category": "Stylish cafe chair",
+        "price": 149.99,
+        "discount": false,
+        "new": true
+    },
+    {
+        "id": 3,
+        "img": "/images/f-fan.png",
+        "title": "Lolito",
+        "category": "Books",
+        "price": 19.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 4,
+        "img": "/images/f-lamp.png",
+        "title": "Respira",
+        "category": "Clothing",
+        "price": 89.99,
+        "discount": true,
+        "discountAmount": 20.00,
+        "discountPercent": 22,
+        "new": false
+    },
+    {
+        "id": 5,
+        "img": "/images/f-mug.png",
+        "title": "Grifo",
+        "category": "Decor",
+        "price": 249.99,
+        "discount": false,
+        "new": true
+    },
+    {
+        "id": 6,
+        "img": "/images/f-sheet.png",
+        "title": "Grifo",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 7,
+        "img": "/images/f-sofa.png",
+        "title": "Pingky",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": true
+    },
+    {
+        "id": 8,
+        "img": "/images/f-vase.png",
+        "title": "Pot",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": true,
+        "discountAmount": 5.00,
+        "discountPercent": 14,
+        "new": false
+    },
+    {
+        "id": 9,
+        "img": "/images/Balcony-Relaxing-Sofas.png",
+        "title": "Balcony Relaxing Sofas",
+        "category": "Decor",
+        "price": 99.99,
+        "discount": true,
+        "discountAmount": 20.00,
+        "discountPercent": 20,
+        "new": false
+    },
+    {
+        "id": 10,
+        "img": "/images/Cabinet-and-Shelf.png",
+        "title": "Cabinet and Shelf",
+        "category": "Decor",
+        "price": 134.99,
+        "discount": false,
+        "new": true
+    },
+    {
+        "id": 11,
+        "img": "/images/Codiys-Art-Deco-Storage.png",
+        "title": "Codiys Art Deco Storage",
+        "category": "Decor",
+        "price": 54.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 12,
+        "img": "/images/f-dressing.png",
+        "title": "Dressing Table",
+        "category": "Decor",
+        "price": 74.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 13,
+        "img": "/images/f-serene-living.png",
+        "title": "Serene Living Room",
+        "category": "Decor",
+        "price": 44.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 14,
+        "img": "/images/f-side-decor.png",
+        "title": "Side Decor",
+        "category": "Decor",
+        "price": 64.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 15,
+        "img": "/images/Famapy-White 6-Drawers-Dresser.png",
+        "title": "Famapy White 6-Drawers Dresser",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 16,
+        "img": "/images/Japanese-Hallway-Themes.png",
+        "title": "Japanese Hallway Themes",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 17,
+        "img": "/images/Korean-Lifestyle.png",
+        "title": "Korean Lifestyle",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 18,
+        "img": "/images/Modern-Solu-Art.png",
+        "title": "Modern Solu Art",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": true
+    },
+    {
+        "id": 19,
+        "img": "/images/Modern-White-Makeup-Vanity-Set.png",
+        "title": "Modern White Makeup Vanity Set",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 20,
+        "img": "/images/Opal-Chandelier-White.png",
+        "title": "Opal Chandelier White",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": false
+    },
+    {
+        "id": 21,
+        "img": "/images/Restoration-Hardware_s-Cloud-Sofa.png",
+        "title": "Restoration Hardware's Cloud Sofa",
+        "category": "Decor",
+        "price": 34.99,
+        "discount": false,
+        "new": false
+    }
+]
