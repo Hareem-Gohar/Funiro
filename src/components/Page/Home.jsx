@@ -3,7 +3,7 @@ import Header from "../layout/Header";
 import HeroSection from "../Home/HeroSection";
 import Services from "../Home/Services";
 import ProductList from "../Product/ProductList";
-import Inspiration from "../Home/inspiration";
+import Inspiration from "../Home/Inspiration";
 import TipsAndTricks from "../Home/Tips-n-Tricks";
 import FuniroFurniture from "../Home/FuniroFurniture";
 import Footer from "../layout/Footer";
